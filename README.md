@@ -12,10 +12,3 @@ A full-stack business intelligence dashboard built with Python and Streamlit.
 
 ## 🛠 Tech Stack
 Python · Pandas · NumPy · Plotly · Streamlit · scikit-learn
-
-## 🚀 Run Locally
-pip install -r requirements.txt
-streamlit run App/app.py
-## 📁 Data
-Place your `sales_data.csv` in the `data/` folder.
-Columns required: Date, Store_Id, Channel, Category, Product_Name, Units_Sold, Revenue, Cost, Return_Units
